@@ -1,18 +1,37 @@
-# DeltaMusic
+# DeltaMusic（三角洲音乐演奏器）
 
-Legacy Windows release for community use.
+这是一个面向 Windows 普通用户的旧版可运行分享包，用于按曲目进行键盘演奏。
 
-## Download and run
+> 本页是给新用户看的最新使用说明。压缩包内保留了旧版技术文件和原始曲目文件名；如果其中说明与本页不同，请以本页为准。
 
-1. Open the Releases page.
-2. Download `DeltaMusic.zip`.
-3. Extract the entire archive before launching `DeltaMusic.exe`.
-4. Do not run `DeltaMusicPlayerHost.exe` directly.
-5. Press F10 to stop the player.
+## 下载
 
-## Notes
+请前往 [发行版页面](https://github.com/Songheng-HE/DeltaMusic/releases/latest) 的“Assets（资源）”区域，下载 `DeltaMusic.zip`。
 
-This is a community, non-official project. It is not affiliated with or endorsed by the game publisher.
+> 不要下载 GitHub 自动生成的 “Source code (zip)” 或 “Source code (tar.gz)”：它们只包含仓库说明，不能运行。
 
-Use it only where permitted by applicable game and server rules. This repository is an archival release and is provided without warranty.
-。
+## 使用方法
+
+1. 下载 `DeltaMusic.zip`。
+2. 右键压缩包，选择“全部解压”，解压到桌面、下载目录等普通文件夹。
+3. 解压完成后，进入解压出的 `test` 文件夹。
+4. 双击 `DeltaMusic.exe` 启动软件。
+5. 在软件中选择曲目，按照界面提示开始演奏。
+6. 需要立即停止时，按 `F10`。
+
+## 注意事项
+
+- 请始终保留完整解压后的文件夹；不要在压缩包预览窗口中直接运行，也不要只复制一个 EXE 文件。
+- 不要单独启动 `DeltaMusicPlayerHost.exe`。
+- 如果 Windows 出现安全提醒，请先确认下载来自本仓库的发行版页面并核对下方 SHA-256；不要关闭系统防护，也不要运行来源不明的文件。
+- 使用前请确认适用的游戏、服务器和反作弊规则允许此类工具。
+
+## 文件校验
+
+`DeltaMusic.zip` 的 SHA-256：
+
+`758CDADCE41F8DD00E49A24854316D8592A81E180D2A897E9C8B58D7DF653176`
+
+## 项目说明
+
+这是一个非官方社区旧版分享包，与游戏发行方没有隶属或授权关系。请确保自己有权使用相关音乐内容，并遵守适用的版权规则。软件按现状提供，不提供保证。
