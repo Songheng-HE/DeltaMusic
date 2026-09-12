@@ -1,5 +1,11 @@
 # DeltaMusic
 
+## ⬇️ 普通用户：直接下载最新版
+
+[**下载 DeltaMusic v1.2.0（Windows x64 ZIP）**](https://github.com/Songheng-HE/DeltaMusic/releases/download/v1.2.0/DeltaMusic-v1.2.0-windows-x64.zip)
+
+下载后请先**完整解压**，再双击解压文件夹内的 `DeltaMusic.exe`。不需要安装 Python。若上面的直链无法打开，也可进入 [全部发布版本（Releases）](https://github.com/Songheng-HE/DeltaMusic/releases) 下载。
+
 DeltaMusic 是一个用于《三角洲行动》游戏内口琴演奏的 Windows 曲库启动器。下载发布包后不需要安装 Python：选择曲目、同意播放时出现的 Windows 管理员权限请求，然后切回游戏即可。
 
 当前推荐版本：**v1.2.0（曲库管理 + 安全多 MIDI 导入）**。
