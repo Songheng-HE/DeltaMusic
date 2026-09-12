@@ -1,0 +1,7 @@
+mido>=1.3.0,<2.0.0
+keyboard>=0.13.5,<1.0.0
+pydirectinput>=1.0.4,<2.0.0
+# Pinned because this package ships native TkDND binaries that become part of
+# the Windows release.  Keep it aligned with the PyInstaller hook validation.
+tkinterdnd2==0.6.3
+pypinyin>=0.51,<1.0

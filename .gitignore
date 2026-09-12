@@ -1,0 +1,33 @@
+# Local research and non-release-ready music material
+/findMusic/
+/take_my_breath_away/
+/教程.pdf
+/曲目运行命令.md
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+
+# DeltaMusicLauncher build products and local release copies
+/coding/DeltaMusicLauncher/build_exe/
+/coding/DeltaMusicLauncher/build/
+/coding/DeltaMusicLauncher/dist/
+/coding/DeltaMusicLauncher/release*/
+/coding/DeltaMusicLauncher/*.spec
+
+# Personal libraries, logs and generated packages
+**/user_library/
+*.log
+*.exe
+*.msi
+*.zip
+*.dmsong
+
+# Signing material and local configuration
+*.pfx
+*.p12
+*.pvk
+*.key
+.env
+.env.*

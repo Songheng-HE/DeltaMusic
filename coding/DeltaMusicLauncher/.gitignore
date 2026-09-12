@@ -1,0 +1,12 @@
+# Local virtual environment and generated release artifacts
+.venv/
+release/
+build/
+build_exe/
+release_exe/
+*.spec
+__pycache__/
+*.py[cod]
+
+# Per-user library is intentionally not versioned
+user_library/

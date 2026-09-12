@@ -1,0 +1,2 @@
+"""DeltaMusic Launcher source package."""
+

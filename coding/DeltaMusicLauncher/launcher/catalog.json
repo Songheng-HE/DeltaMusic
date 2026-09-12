@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "songs": [
+    {
+      "id": "croatian_rhapsody",
+      "title": "Croatian Rhapsody / 克罗地亚狂想曲",
+      "folder": "croatian",
+      "script": "croatian_three_octave_player.py",
+      "required_files": [
+        "croatian-rhapsody.mid"
+      ],
+      "description": "三八度版本；播放器启动后有 10 秒切回游戏。"
+    },
+    {
+      "id": "mariage_damour",
+      "title": "Mariage d'Amour / 梦中的婚礼",
+      "folder": "mariage",
+      "script": "mariage_three_octave_player.py",
+      "required_files": [
+        "mariage_damour_melody_only.mid"
+      ],
+      "description": "单旋律 MIDI 版本；按 F10 可紧急停止。"
+    },
+    {
+      "id": "daoxiang",
+      "title": "稻香",
+      "folder": "daoxiang",
+      "script": "daoxiang_three_octave_player.py",
+      "required_files": [
+        "稻香—周杰伦（适合鬼畜调教）.mid"
+      ],
+      "description": "三八度版本；播放器启动后有 10 秒切回游戏。"
+    },
+    {
+      "id": "vivaldi_autumn_b",
+      "title": "Vivaldi - Autumn / 维瓦尔第《秋》方案 B",
+      "folder": "autumn",
+      "script": "autumn_scheme_B_player.py",
+      "required_files": [
+        "autumn_I_B_complete_melody.mid",
+        "autumn_II_B_complete_melody.mid",
+        "autumn_III_B_complete_melody.mid"
+      ],
+      "description": "启动后请在播放器窗口输入 1、2 或 3 选择乐章。"
+    }
+  ]
+}
